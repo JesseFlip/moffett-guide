@@ -1,7 +1,3 @@
-Here is a professional, high-impact `README.md` for your repository. It integrates the technical specs from your [Moffett M8 55.3 Belize Expedition Hub](https://moffett-guide.vercel.app/) and provides clear instructions for field operators and developers.
-
----
-
 # 🚜 Moffett M8 55.3: Belize Expedition Hub
 **Serial Number:** `0480688` | **Powerplant:** Kohler Tier 4 Final
 
@@ -71,11 +67,3 @@ This documentation is specifically prepared for **Belize Expedition Logistics**.
 Knowledge base derived from documented Palfinger / Kohler Tier 4 Technical Specifications. 
 
 ---
-
-### Contribution
-If you are updating technical specs after a field repair:
-1.  Fork the repository.
-2.  Update the relevant `.md` or data file in the `/content` directory.
-3.  Submit a Pull Request with the subject "Maintenance Update - [Date]".
-
-Does this structure capture everything you need for the field team, or should we add a specific section for emergency contact protocols?
