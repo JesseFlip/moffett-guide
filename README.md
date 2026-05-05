@@ -1,16 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚜 Moffett M8 55.3: Belize Expedition HubSerial Number: 0480688 | Powerplant: Kohler Tier 4 FinalThis repository serves as the central technical documentation and logistics hub for the Palfinger Moffett M8 55.3 deployed for the Belize Expedition. It is designed to provide rapid access to technical specifications, troubleshooting guides, and parts strategies for field operations.🔗 Live Site: moffett-guide.vercel.app🛠 Technical Audit SpecificationsThe following data represents the core configuration of Unit 0480688.SpecificationValueLift Capacity5,500 lbsEngine ModelKohler KDI 1903 TCRDrive SystemClosed-loop HydrostaticOperating Pressure2,500 PSIWidth101 inches📂 Project StructureThe hub is organized into high-priority modules for field deployment:Getting Started: Essential setup and safety protocols for new operators.Parts Strategy: Inventory management and critical component SKU tracking for the Belize region.Troubleshooting: Diagnostic trees for the Kohler Tier 4 engine and hydrostatic drive systems.Technical Audit: Deep-dive specs and maintenance intervals for Serial 0480688.AI Assistant: Integrated LLM for querying technical manuals on the fly.Español: Full localization for regional field support.🚀 Deployment & UsageThis site is built as a lightweight, mobile-responsive documentation portal to ensure it remains accessible in low-bandwidth environments.Local DevelopmentClone the repo:Bashgit clone https://github.com/[your-username]/moffett-guide.git
+Install dependencies:Bashnpm install
+Run the dev server:Bashnpm run dev
+🔧 Maintenance Protocols[!IMPORTANT]This unit utilizes a Kohler KDI 1903 TCR engine. Strict adherence to Tier 4 Final maintenance (DEF/DPF requirements) is mandatory to prevent derate conditions during the expedition.Daily: Check hydraulic fluid levels and tire pressure.Weekly: Inspect hydrostatic lines for leaks and check the cooling package.Service Intervals: Follow the Kohler KDI 1903 TCR schedule documented in the Technical Audit.🌎 Logistics ContextThis documentation is specifically prepared for Belize Expedition Logistics. Given the remote nature of operations, all "Parts Strategy" documentation prioritizes components that have long lead times or require international shipping.⚖️ License & Credits© 2026 Belize Expedition Logistics.Knowledge base derived from documented Palfinger / Kohler Tier 4 Technical Specifications.
