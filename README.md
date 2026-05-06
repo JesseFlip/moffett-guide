@@ -17,9 +17,18 @@ The following data represents the core configuration of Unit `0480688`.
 | **Width** | 101 inches |
 
 ---
+💡 Project Genesis: The "Why"
+This site was built as a dedicated resource for my brother-in-law to streamline his business operations. As he scales and hires new employees, this hub provides:
 
+Self-Service Onboarding: A clear "Get Started" path for new hires to learn the equipment without constant supervision.
+
+Field Autonomy: Empowering operators to troubleshoot technical issues on-site using the diagnostic trees and AI assistant.
+
+Operational Efficiency: Reducing downtime by providing instant access to critical specs and parts strategies in remote environments like Belize.
 ## 📂 Project Structure
 The hub is organized into high-priority modules for field deployment:
+
+---
 
 * **Getting Started:** Essential setup and safety protocols for new operators.
 * **Parts Strategy:** Inventory management and critical component SKU tracking for the Belize region.
